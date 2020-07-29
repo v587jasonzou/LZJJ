@@ -1,0 +1,7 @@
+com.module.interaction
+com.rfid
+com.rfid.bean
+com.rfid.config
+com.rfid.rxobserver
+com.rfid.rxobserver.bean
+com.util
